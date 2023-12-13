@@ -14,6 +14,8 @@ BASE_TESTS="
   cscore-intermediate-vision
   cscore-quick-vision
   differential-drive-bot
+  duty-cycle-input
+  duty-cycle-encoder
   elevator-profiled-pid
   elevator-simulation
   elevator-trapezoid-profile

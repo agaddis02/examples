@@ -17,3 +17,5 @@ opkg_cache
 pip_cache
 
 networktables.*
+
+venv/
